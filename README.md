@@ -1,0 +1,1 @@
+This is a simple pong game written in scratch, a visual programming language from MIT. This project was part of pset0 of Harvard University's CS50x 2020 curriculum. Solution link: https://scratch.mit.edu/projects/410590378/
